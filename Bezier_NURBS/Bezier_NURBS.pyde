@@ -2,7 +2,7 @@
 Author: color·sky
 Date  : 2018/11/10
 Reference : https://mp.weixin.qq.com/s/kBZUqAsGnTCsIvJnJXsBCQ
-Special Thanks: 墨白ElementMo, hi347, 可汗小亲
+Special Thanks: 墨白ElementMo, hi347, 可亲小汗
 """
 from Points import Points
 global mode; mode = 'Bezier'
